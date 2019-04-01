@@ -1,0 +1,2 @@
+# inscriptio
+Menubar Email App
